@@ -2,7 +2,7 @@
 
 # Welcome to my page!
 
-'A few things to look forward to:'
+A few things to look forward to:
 - confused
 - no clue what's going on
 <!--

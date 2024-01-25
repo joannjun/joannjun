@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 # Welcome to my page!
+
+'A few things to look forward to:'
+- confused
+- no clue what's going on
 <!--
 **joannjun/joannjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

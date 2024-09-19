@@ -1,9 +1,7 @@
-### Hi there 👋
+### Joann Jun's Portfolio
+## Hello, welcome to my page!
 
-# Welcome to my page!
+# Introduction:
+My name is Joann Jun and I am currently a junior pursuing a BS in Statistical Data Science at the University of Connecticut.
 
-A few things to look forward to:
-- confused
-- no clue what's going on
 
-# womp womp
